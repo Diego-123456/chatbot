@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1943025D-E3EB-4333-B3FD-42A9E62BD0D4}|$safeprojectname$">
+  <MonoDevelop.Ide.ItemProperties.RicardoBot PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RicardoBot/Common/OptionButtonDialog.cs">
+    <Files>
+      <File FileName="RicardoBot/Dialogs/RootDialogs.cs" Line="43" Column="1" />
+      <File FileName="RicardoBot/Common/OptionButtonDialog.cs" Line="69" Column="127" />
+      <File FileName="RicardoBot/Startup.cs" />
+      <File FileName="RicardoBot/EmptyBot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RicardoBot" expanded="True">
+            <Node name="RicardoBot" expanded="True">
+              <Node name="Common" expanded="True">
+                <Node name="OptionButtonDialog.cs" selected="True" />
+              </Node>
+              <Node name="Dialogs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
